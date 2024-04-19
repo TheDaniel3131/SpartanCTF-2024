@@ -1,0 +1,9 @@
+Open Kali Linux or any pem file viewer or opener.
+
+you will get the flag!
+
+
+view: https://imgur.com/a/WHGLDt9
+
+
+flag: spartanCTF{w3lc0me_t0_th3_w0rld_0f_auth0r1ty}
