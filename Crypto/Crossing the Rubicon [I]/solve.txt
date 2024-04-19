@@ -1,0 +1,15 @@
+Interesting encrypted text:
+
+Qefp lkb'p molyxyiv ybpq ibcq ql efpqlov. Kfzb tloh! Cixd: pmxoqxkZQC{3_7r_Yor7b?37284749}
+
+Let me just take out my favorite tool to identify what cipher is this.
+
+It is possibly ROT cipher, so let's try.
+
+And it actually is.
+
+view: https://imgur.com/a/fy9qExb
+
+
+flag: spartanCTF{3_7u_Bru7e?37284749}
+
