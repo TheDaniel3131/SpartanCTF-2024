@@ -1,0 +1,14 @@
+The challenge tells us to visit this website called ZDC.
+
+https://sites.google.com/sstx.org/zdc/home
+
+Scroll down and you see that it said the flag is near that means it is somewhere.
+
+Simply check on view source and search the flag format.
+
+And you got the flag!
+
+view: https://imgur.com/a/tHZL89B
+
+
+flag: spartanCTF{w3lc0m3_t0_th3_c1ub_bb78d66e}
