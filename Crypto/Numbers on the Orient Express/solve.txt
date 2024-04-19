@@ -1,0 +1,44 @@
+This challenge is quite annoying to deal with but after all these mess I realized I am just
+dumb. It is suprisingly easy than you think!
+
+
+This challenge hints Caesar Cipher & Rail Fence.
+
+
+Obviously this string right here:
+
+k_1h3S40s309}jS25l{S1sXJ0fLV6U!
+
+
+It is not a proper flag. 
+
+
+So we have to do Rail Fence first.
+
+
+Notice the challenge also states about Eight. It could be meant Rail Key is equal to 8.
+
+I use this website to crack out the rail fence text:
+
+https://crypto.interactive-maths.com/rail-fence-cipher.html
+
+
+I added my own custom list (just to cover every possible symbols and letters could be): abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_±=[]{}|;':",.<>/?
+
+
+
+as the result: khsjlsfulx{s33_s02sjv!60159410}
+
+
+And the rest is caesar cipher-ing.
+
+
+all my processes are stored in imgur, please do check them out.
+
+
+
+view: https://imgur.com/a/JwASZq1
+
+
+flag: spartanCTF{A11_A80ARD!48937298}
+
