@@ -1,0 +1,12 @@
+Very familiar cipher but I don't know what is it, let's find out!
+
+the image is whose.png.
+
+https://www.dcode.fr/symbols-ciphers
+
+turns it out is chappe alphabet
+
+https://www.dcode.fr/chappe-alphabet
+
+flag: spartanCTF{WHO_IS_THIS_CHAPPE_GUY}
+
