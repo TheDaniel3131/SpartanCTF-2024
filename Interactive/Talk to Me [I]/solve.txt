@@ -1,0 +1,3 @@
+view:https://imgur.com/a/zpsn6La
+
+flag: spartanCTF{g00d_j0b_w1th_g3tting_h3r3}
