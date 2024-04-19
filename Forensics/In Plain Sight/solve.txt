@@ -1,0 +1,8 @@
+I love steghide using aperisolve!
+
+oh baby.
+
+c3BhcnRhbkNURntoMWRkZW5fMW5fcGxhMW5fc2lnaHRfYWJiNTA2NWF9Cg==
+
+
+flag: spartanCTF{h1dden_1n_pla1n_sight_abb5065a}

@@ -1,0 +1,2 @@
+When I see .enc and .pub. The first I do is to open them in hexed to see what inside.
+
