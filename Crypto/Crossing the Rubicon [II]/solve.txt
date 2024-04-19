@@ -1,0 +1,11 @@
+My best friend identified ROT-13 Cipher from the given text.
+
+Ubj'q lbh yvxr gur frdhry? EBG-13 vf erpvcebpny, ohg abg irel fnsr. Avpr unpx! Urer'f lbhe cevmr: fcnegnaPGS{13_12a'g_YhPX7_4sg3e_411.27453829}
+
+Let's check it out.
+
+
+view: https://imgur.com/a/Qs053bQ
+
+
+flag: spartanCTF{13_12n't_LuCK7_4ft3r_411.27453829}
