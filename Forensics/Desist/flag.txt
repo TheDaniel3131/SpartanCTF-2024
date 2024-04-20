@@ -1,0 +1,3 @@
+Check the metadata with exif.tools!
+
+flag: spartanCTF{n3v3r_f0rget_th3_m3tadata_5b1bfc6e}

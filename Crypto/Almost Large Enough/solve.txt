@@ -1,2 +1,9 @@
 When I see .enc and .pub. The first I do is to open them in hexed to see what inside.
 
+Okay, the .enc file is encrypted. And I stepped back thinking what this could be. It turned out it is our dear friend RSA!
+
+
+So I find the solution to decode the enc file and I see this cool writeup blog by Joe: https://medium.com/@joemcfarland/hack-the-box-weak-rsa-writeup-78df1fc5902c
+
+
+I just tag along accordingly.
